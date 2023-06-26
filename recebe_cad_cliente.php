@@ -97,7 +97,7 @@
 
  if($inserir){
      
-     echo"Cliente cadastrado com sucesso;
+     echo"Cliente cadastrado com sucesso";
          print '\n Redirecionando...\n ';
      header("Refresh:3; URL=exibir_cliente.php");
  }else{
